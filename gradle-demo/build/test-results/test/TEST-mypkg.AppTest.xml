@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mypkg.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-30T16:22:53" hostname="d-172-26-114-181.dhcp.virginia.edu" time="0.002">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="mypkg.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
